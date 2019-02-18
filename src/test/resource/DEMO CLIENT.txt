@@ -1,0 +1,4 @@
+SlNo	Received_Date	Location	Group_Name	Facility_Name	Facility_Code	Account_Code	Batch_Name	DOS	No_of_Pages	No_of_Charts	MR_SSN_NO	Comments	Ntlg
+1	11-11-2018	Hong Kong	Hong Kong	Test FAC	Test FAC		SSMStClare_001	11-11-2018	25	25		Fresh	AnkitS
+2	11-11-2018	Hong Kong	Hong Kong	Test FAC	Test FAC		SSMStClare_002	11-11-2018	25	25		Fresh	AnkitS
+3	11-11-2018	Hong Kong	Hong Kong	Test FAC	Test FAC		SSMStClare_003	11-11-2018	25	25		Fresh	AnkitS

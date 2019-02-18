@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67454" started-at="2018-12-13T10:57:50Z" finished-at="2018-12-13T10:58:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67454" started-at="2018-12-13T10:57:50Z" finished-at="2018-12-13T10:58:57Z">
+      <class name="coderTest.CoderTransactionHoldStatus">
+        <test-method status="PASS" signature="startReports()[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130]" name="startReports" is-config="true" duration-ms="100" started-at="2018-12-13T10:57:49Z" finished-at="2018-12-13T10:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReports -->
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130]" name="LaunchBrowser" is-config="true" duration-ms="6398" started-at="2018-12-13T10:57:50Z" finished-at="2018-12-13T10:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="ExcelLoad(java.lang.reflect.Method)[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130]" name="ExcelLoad" is-config="true" duration-ms="1057" started-at="2018-12-13T10:57:56Z" finished-at="2018-12-13T10:57:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void coderTest.CoderTransactionHoldStatus.HoldCoderTrans() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExcelLoad -->
+        <test-method status="PASS" signature="HoldCoderTrans()[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130]" name="HoldCoderTrans" duration-ms="44347" started-at="2018-12-13T10:57:57Z" finished-at="2018-12-13T10:58:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HoldCoderTrans -->
+        <test-method status="PASS" signature="endLogger(org.testng.ITestResult)[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130]" name="endLogger" is-config="true" duration-ms="13235" started-at="2018-12-13T10:58:41Z" finished-at="2018-12-13T10:58:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HoldCoderTrans status=SUCCESS method=CoderTransactionHoldStatus.HoldCoderTrans()[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endLogger -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130]" name="CloseBrowser" is-config="true" duration-ms="2382" started-at="2018-12-13T10:58:55Z" finished-at="2018-12-13T10:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="CloseReport()[pri:0, instance:coderTest.CoderTransactionHoldStatus@6eceb130]" name="CloseReport" is-config="true" duration-ms="0" started-at="2018-12-13T10:58:57Z" finished-at="2018-12-13T10:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseReport -->
+      </class> <!-- coderTest.CoderTransactionHoldStatus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

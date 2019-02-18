@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Category Suite]">
+  <test thread-count="5" name="Tests(failed)">
+    <classes>
+      <class name="coding.CreateBatch">
+        <methods>
+          <include name="endLogger"/>
+          <include name="startReports"/>
+          <include name="LaunchBrowser"/>
+          <include name="CloseBrowser"/>
+          <include name="CloseReport"/>
+          <include name="ExcelLoad"/>
+          <include name="newBatch"/>
+        </methods>
+      </class> <!-- coding.CreateBatch -->
+    </classes>
+  </test> <!-- Tests(failed) -->
+</suite> <!-- Failed suite [Category Suite] -->
